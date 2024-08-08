@@ -12,4 +12,5 @@ Nicholas School of the Environment. “Continuous Probability Distribution.” E
 Wikipedia. “Logistic Distribution.” 2021. Wikipedia. https://en.wikipedia.org/wiki/Logistic_distribution.Links to an external site.  
 Yale University. “Random Variables.”  Links to an external site.Yale University Links to an external site.. 2021. http://www.stat.yale.edu/Courses/1997-98/101/ranvar.htm.  
 https://mathinsight.org/probability_density_function_idea  
- 
+Normal distribution. https://homepage.divms.uiowa.edu/~mbognar/applets/normal.html  
+Bognar, Matthew. “Normal Distribution.” University of Iowa Department of Statistics and Actuarial Science. 2021.  
