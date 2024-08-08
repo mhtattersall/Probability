@@ -11,5 +11,5 @@ Hayes, Adam. “T Distribution Definition.” Investopedia. 2021. https://www.in
 Nicholas School of the Environment. “Continuous Probability Distribution.” ENV710 Statistics Review Website. 2021. https://sites.nicholas.duke.edu/statsreview/continuous-probability-distributions/.  
 Wikipedia. “Logistic Distribution.” 2021. Wikipedia. https://en.wikipedia.org/wiki/Logistic_distribution.Links to an external site.  
 Yale University. “Random Variables.”  Links to an external site.Yale University Links to an external site.. 2021. http://www.stat.yale.edu/Courses/1997-98/101/ranvar.htm.  
-
+https://mathinsight.org/probability_density_function_idea  
  
